@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nouhoum
 - 👀 I’m interested in tech, writing, economy, product building...
 - 🌱 I’m currently learning kubernetes in depth.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting programming problems. 
 - 📫 How to reach me https://www.linkedin.com/in/nouhoum-traore-803b4118/ or drop me an email at nouhoum.traore (gmail).
 
 <!---
